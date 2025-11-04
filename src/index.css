@@ -8,8 +8,9 @@
   name: "light";
   default: true;
   --color-primary: #9F62F2;
-  --color-secondary: teal;
+  --color-secondary: #001931;
   --color-blk: #001931;
 
   --color-base-100: #E9E9E9;
+  
 }

@@ -25,7 +25,7 @@ const Login = () => {
             console.log(error);
         })
 
-        console.log("cliked", { email, password});
+        console.log({ email, password});
     }
 
     const handleGoogleSignIn = () => {
